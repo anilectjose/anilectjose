@@ -3,7 +3,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVNrKs9Y1H1gz26qB_nLt-Q?label=youtube&logo=youtube&logoColor=c4302b&style=for-the-badge)](https://www.youtube.com/channel/UCVNrKs9Y1H1gz26qB_nLt-Q)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anilectjose?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=anilectjose)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer, and Teacher!!
 
 - 🔭 I'm doing my Post Graduation in Computer Application: [Become a MCA Student in AJCE][course]!
 - 🌱 I’m currently learning everything 🤣
