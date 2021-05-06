@@ -68,6 +68,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#39](https://github.com/incubateind/gdtc-Day3/pull/39) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
+2. 🗣 Commented on [#23](https://github.com/incubateind/gdtc-Day3/issues/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
+3. ❌ Reopened PR [#23](https://github.com/incubateind/gdtc-Day3/pull/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
+4. ❌ Closed PR [#23](https://github.com/incubateind/gdtc-Day3/pull/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
+5. 🗣 Commented on [#23](https://github.com/incubateind/gdtc-Day3/issues/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
 <!--END_SECTION:activity-->
 
 </details>
