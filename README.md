@@ -57,6 +57,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A2J’S DEPARTMENT MANAGEMENT SYSTEM](https://dev.to/anilectjose/a2j-s-department-management-system-1i9m)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/anilectjose)
