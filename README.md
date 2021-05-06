@@ -65,6 +65,14 @@
 ---
 
 <details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="anilectjose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anilectjose&show_icons=true&hide_border=true" />
