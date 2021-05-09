@@ -68,8 +68,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3268](https://github.com/CodingTrain/Rainbow-Poem/pull/3268) in [CodingTrain/Rainbow-Poem](https://github.com/CodingTrain/Rainbow-Poem)
-2. 💪 Opened PR [#39](https://github.com/incubateind/gdtc-Day3/pull/39) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
+1. 🗣 Commented on [#3268](https://github.com/CodingTrain/Rainbow-Poem/issues/3268) in [CodingTrain/Rainbow-Poem](https://github.com/CodingTrain/Rainbow-Poem)
+2. 💪 Opened PR [#3268](https://github.com/CodingTrain/Rainbow-Poem/pull/3268) in [CodingTrain/Rainbow-Poem](https://github.com/CodingTrain/Rainbow-Poem)
 3. 🗣 Commented on [#23](https://github.com/incubateind/gdtc-Day3/issues/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
 4. ❌ Reopened PR [#23](https://github.com/incubateind/gdtc-Day3/pull/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
 5. ❌ Closed PR [#23](https://github.com/incubateind/gdtc-Day3/pull/23) in [incubateind/gdtc-Day3](https://github.com/incubateind/gdtc-Day3)
