@@ -68,11 +68,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/anilectjose/Internship/issues/2) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-2. 🗣 Commented on [#2](https://github.com/anilectjose/Internship/issues/2) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-3. ❗️ Opened issue [#2](https://github.com/anilectjose/Internship/issues/2) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-4. 🎉 Merged PR [#1](https://github.com/anilectjose/Internship/pull/1) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-5. 🗣 Commented on [#3268](https://github.com/CodingTrain/Rainbow-Poem/issues/3268) in [CodingTrain/Rainbow-Poem](https://github.com/CodingTrain/Rainbow-Poem)
+1. ❗️ Opened issue [#3269](https://github.com/CodingTrain/Rainbow-Poem/issues/3269) in [CodingTrain/Rainbow-Poem](https://github.com/CodingTrain/Rainbow-Poem)
+2. 🗣 Commented on [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
+3. ❗️ Closed issue [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
+4. 🗣 Commented on [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
+5. ❗️ Opened issue [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
 <!--END_SECTION:activity-->
 
 </details>
