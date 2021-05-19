@@ -18,6 +18,7 @@
 [<img align="left" alt="Anilect Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anilect Jose | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anilect Jose | DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/dev-dot-to.svg" />][dev]
+[<img align="left" alt="Anilect Jose | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/discord.svg" />][discord]
 
 <br />
 
@@ -96,6 +97,7 @@
 [instagram]: https://www.instagram.com/anilectj/
 [linkedin]: https://linkedin.com/in/anilectjose
 [dev]: https://dev.to/anilectjose
+[discord]: https://discord.gg/zuS9Txd9EG
 
 [visual]: https://github.com/microsoft/vscode
 [html]: https://www.w3schools.com/html/
