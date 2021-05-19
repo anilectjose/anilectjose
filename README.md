@@ -16,6 +16,7 @@
 [<img align="left" alt="Anilect Jose | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Anilect Jose | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Anilect Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anilect Jose | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg" />][fb]
 [<img align="left" alt="Anilect Jose | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anilect Jose | DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="Anilect Jose | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/discord.svg" />][discord]
@@ -94,6 +95,7 @@
 [course]: http://ajce.in
 [twitter]: https://twitter.com/Anilectjose
 [youtube]: https://www.youtube.com/channel/UCVNrKs9Y1H1gz26qB_nLt-Q
+[fb]: https://www.facebook.com/profile.php?id=100004934737272
 [instagram]: https://www.instagram.com/anilectj/
 [linkedin]: https://linkedin.com/in/anilectjose
 [dev]: https://dev.to/anilectjose
