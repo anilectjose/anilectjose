@@ -5,7 +5,7 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🔭 I'm doing my Post Graduation in Computer Application: [Become a MCA Student in AJCE][course]!
+- 🔭 I'm doing my Post Graduation in Computer Application: [Become a Student in AJCE][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute to Open Source projects
