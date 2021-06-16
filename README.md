@@ -92,7 +92,7 @@
 
 </details>
 
-[website]: https://github.com/anilectjose
+[website]: https://anilectjose.github.io/Portfolio/
 [course]: http://ajce.in
 [twitter]: https://twitter.com/Anilectjose
 [youtube]: https://www.youtube.com/channel/UCVNrKs9Y1H1gz26qB_nLt-Q
