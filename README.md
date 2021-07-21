@@ -96,8 +96,8 @@
 [course]: http://ajce.in
 [twitter]: https://twitter.com/Anilectjose
 [youtube]: https://www.youtube.com/channel/UCVNrKs9Y1H1gz26qB_nLt-Q
-[fb]: https://www.facebook.com/profile.php?id=100004934737272
-[instagram]: https://www.instagram.com/anilectj/
+[fb]: https://www.facebook.com/anilectjose
+[instagram]: https://www.instagram.com/anilectjose/
 [linkedin]: https://linkedin.com/in/anilectjose
 [dev]: https://dev.to/anilectjose
 [discord]: https://discord.gg/zuS9Txd9EG
