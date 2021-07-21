@@ -18,6 +18,7 @@
 [<img align="left" alt="Anilect Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anilect Jose | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg" />][fb]
 [<img align="left" alt="Anilect Jose | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Anilect Jose | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snap]
 [<img align="left" alt="Anilect Jose | DEV" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/dev-dot-to.svg" />][dev]
 [<img align="left" alt="Anilect Jose | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/discord.svg" />][discord]
 
@@ -98,6 +99,7 @@
 [youtube]: https://www.youtube.com/channel/UCVNrKs9Y1H1gz26qB_nLt-Q
 [fb]: https://www.facebook.com/anilectjose
 [instagram]: https://www.instagram.com/anilectjose/
+[snap]: https://www.snapchat.com/add/anilectjose/
 [linkedin]: https://linkedin.com/in/anilectjose
 [dev]: https://dev.to/anilectjose
 [discord]: https://discord.gg/zuS9Txd9EG
