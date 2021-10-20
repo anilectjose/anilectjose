@@ -74,7 +74,7 @@
 
 ---
 
-<img align="right" alt="PNG" src="https://github.com/anilectjose/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
+<img align="right" alt="PNG" src="https://github.com/anilectjose/anilectjose/blob/main/assets/img/cat.png" width="300" height="300" />
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=anilectjose&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 
