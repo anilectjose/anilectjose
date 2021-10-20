@@ -74,25 +74,13 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3269](https://github.com/CodingTrain/Rainbow-Poem/issues/3269) in [CodingTrain/Rainbow-Poem](https://github.com/CodingTrain/Rainbow-Poem)
-2. 🗣 Commented on [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-3. ❗️ Closed issue [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-4. 🗣 Commented on [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-5. ❗️ Opened issue [#4](https://github.com/anilectjose/Internship/issues/4) in [anilectjose/Internship](https://github.com/anilectjose/Internship)
-<!--END_SECTION:activity-->
+<img align="right" alt="PNG" src="https://github.com/anilectjose/Vanshikapandey30/blob/main/assets/img/cat.png" width="300" height="300" />
 
-</details>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=anilectjose&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anilectjose&theme=dark&show_icons=true&locale=en&layout=compact" alt="anilectjose"  />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anilectjose&theme=dark" alt="anilectjose" /></p>
 
-  <img align="left" alt="anilectjose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anilectjose&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://anilectjose.github.io/Portfolio/
 [course]: http://ajce.in
