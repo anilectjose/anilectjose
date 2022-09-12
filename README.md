@@ -81,10 +81,10 @@
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=anilectjose&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anilectjose&theme=dark&show_icons=true&locale=en&layout=compact" alt="anilectjose"  />
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anilectjose&theme=dark" alt="anilectjose" /> 
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anilectjose&theme=dark" alt="anilectjose" /> </p>
+
 #### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</p>
 
 
 [website]: https://anilectjose.github.io/Portfolio/
