@@ -87,7 +87,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-[website]: https://anilectjose.github.io/Portfolio/
+[website]: https://anilectjose.me/
 [course]: http://ajce.in
 [twitter]: https://twitter.com/Anilectjose
 [youtube]: https://www.youtube.com/channel/UCVNrKs9Y1H1gz26qB_nLt-Q
