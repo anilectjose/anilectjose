@@ -66,12 +66,6 @@
 
 ---
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anilectjose&theme=skyblue-lightgreen)
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -87,7 +81,10 @@
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=anilectjose&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anilectjose&theme=dark&show_icons=true&locale=en&layout=compact" alt="anilectjose"  />
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anilectjose&theme=dark" alt="anilectjose" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anilectjose&theme=dark" alt="anilectjose" /> 
+#### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 
 [website]: https://anilectjose.github.io/Portfolio/
@@ -110,6 +107,7 @@
 [flutter]: https://flutter.dev/
 [java]: https://www.java.com/en/
 [cpp]: https://g.co/kgs/2NHyZu
+[perl]: https://www.perl.org/
 
 [reactplaylist]: https://reactjs.org/
 [nodeplaylist]: https://nodejs.org/en/
