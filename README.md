@@ -5,7 +5,7 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🗃️ I'm working as an Engineer Trainee @ Tayana Mobility Technologies Pvt Ltd
+- 🗃️ I'm working as an Engineer Trainee in Bangalore
 - 🔭 I have done my Post Graduation in Computer Application: [Become a Student in AJCE][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
