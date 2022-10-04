@@ -9,7 +9,7 @@
 - 🔭 I have done my Post Graduation in Computer Application: [Become a Student in AJCE][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects 🙂
 - ⚡ Fun fact: I love to Code, Eat and Travel
 
 ### Connect with me:
